@@ -1,0 +1,7 @@
+myenv
+archive
+bin
+include
+lib
+lib64
+pyvenv*
